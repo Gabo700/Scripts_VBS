@@ -31,3 +31,4 @@ for %%a in ("%pasta%\*.*") do (
         del "%%a"
     )
 )
+REM Arquivo em lotes não creio que seja a melhor forma de de se aplicar.
