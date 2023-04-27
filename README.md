@@ -28,3 +28,7 @@ push
 git remote add origin https://github.com/Gabo700/Gabo700.github.io.git
 git branch -M main
 git push -u origin main
+
+
+
+E outros codigos curtos
